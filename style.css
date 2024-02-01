@@ -8,15 +8,8 @@ body {
     height: 100vh;
     background-color: #f0f0f0;
 }
-body,html{
-    width:100%;
-    height: 100%;
-  }
-  body{
-    margin:0;
-    padding:0;
-    background:#29b6f6;
-  }
+
+  
   .bubbles{
     position:absolute;
     width:100%;
